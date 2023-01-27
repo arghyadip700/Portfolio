@@ -1,0 +1,37 @@
+*{
+    background-color:rgb(48, 41, 41);
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Libre Baskerville', serif;
+    color: rgb(216, 216, 116);
+}
+h3{
+    color:aquamarine
+}
+p{
+    font-size: 20px;
+}
+img{
+    float:right;
+    border-radius: 50px;
+}
+h4{
+    font-size: 45px;
+    color:rgb(234, 185, 224);
+}
+ul{
+    font-size: 20px;
+    color:antiquewhite;
+}
+ol{
+    font-size: 20px;
+    color:antiquewhite;
+}
+a{
+    color: aquamarine;
+}
+a:hover{
+    color:chartreuse;
+}
